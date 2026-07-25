@@ -97,33 +97,10 @@ Native Android expense tracker — Firebase auth, real-time sync, category break
 
 </div>
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=samihavahora05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samihavahora05&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samihavahora05&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<details>
-<summary><strong>GitHub Trophies</strong></summary>
-<br/>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=samihavahora05&theme=darkhub&no-frame=true&row=1&column=6" />
-</div>
-</details>
-
----
 
 <div align="center">
 
 *"Code is like humor. When you have to explain it, it's bad." — Cory House*
 
-<img src="https://komarev.com/ghpvc/?username=samihavahora05&style=flat&color=2C4B6B" alt="profile views" />
 
 </div>
