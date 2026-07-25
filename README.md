@@ -28,7 +28,7 @@ I'm looking for a **Software Development, Full Stack, or AI/ML internship** wher
 - 🔭 Currently building out my full-stack + ML project portfolio
 - 🌱 Currently deepening: system design fundamentals, testing practices, and ML model deployment
 - 💬 Ask me about: Android (Kotlin/Java), Laravel/PHP, Flutter/Dart, or on-device ML
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **samihavahora71@gmail.com**
 
 ---
 
