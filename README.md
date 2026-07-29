@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C4B6B,100:6DB3F2&height=180&section=header&text=Samiha%20Vahora&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
+# Samiha Vahora
+
+**Full Stack Developer | AI/ML Enthusiast**
 
 <a href="https://github.com/samihavahora05">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2C4B6B&center=true&vCenter=true&width=550&lines=Building+real+products%2C+not+just+demos;Full+Stack+%2B+AI%2FML+%7C+Vadodara%2C+India;Open+to+Software%2FFull+Stack%2FAI-ML+Internships" alt="Typing SVG" />
