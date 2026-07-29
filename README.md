@@ -93,19 +93,6 @@ Cross-platform Flutter weather app — GPS location, interactive Google Maps, 7-
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=samihavahora05&show_icons=true&theme=default&hide_border=true&title_color=2C4B6B&icon_color=2C4B6B&text_color=333333" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samihavahora05&layout=compact&hide_border=true&title_color=2C4B6B&langs_count=8&text_color=333333" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samihavahora05&theme=default&hide_border=true&background=FFFFFF&ring=2C4B6B&fire=2C4B6B&currStreakLabel=2C4B6B" />
-</div>
-
-<br/>
-
 <div align="center">
 
 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
