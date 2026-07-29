@@ -92,6 +92,14 @@ Native Android expense tracker — Firebase auth, real-time sync, category break
 `Java` `Firebase` `Android`
 
 </td>
+<td width="50%">
+
+### 🛡️ [InsurMatch](https://github.com/samihavahora05/insurmatch.git)
+AI-powered insurance agent discovery and consultation platform for India
+
+`Next.js` `TypeScript` `Tailwind CSS` `Supabase` `pgvector` `Docker`
+
+</td>
 </tr>
 </table>
 
