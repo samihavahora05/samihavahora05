@@ -1,100 +1,28 @@
 <div align="center">
+  <h1>Hi there, I'm Samiha Vahora 👋</h1>
+  <h3>Full-Stack Web Developer & Software Engineer</h3>
 
-# Samiha Vahora
+  <p>
+    <a href="https://github.com/samihavahora05"><img src="https://img.shields.io/github/followers/samihavahora05?label=Followers&style=for-the-badge&color=1B2A6B&logo=github" alt="Followers" /></a>
+    <a href="https://github.com/samihavahora05?tab=repositories"><img src="https://img.shields.io/github/stars/samihavahora05?label=Stars&style=for-the-badge&color=3B82F6&logo=github" alt="Stars" /></a>
+  </p>
 
-**Full Stack Developer | AI/ML Enthusiast**
-
-<a href="https://github.com/samihavahora05">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2C4B6B&center=true&vCenter=true&width=550&lines=Building+real+products%2C+not+just+demos;Full+Stack+%2B+AI%2FML+%7C+Vadodara%2C+India;Open+to+Software%2FFull+Stack%2FAI-ML+Internships" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://linkedin.com/in/samiha-vahora-9792a632a)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samiha-vahora-9792a632a)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samihavahora71@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samihavahora05)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1B2A6B&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;React+%26+Next.js+Specialist;Laravel+%26+REST+API+Architect;Building+EdTech+%26+Enterprise+Apps" alt="Typing SVG" />
 </div>
 
-<br/>
+---
 
-## 👋 About Me
+### 💫 About Me
 
-I'm a final-year **Computer Science Engineering** student (ITM SLS Baroda University, Vadodara — CGPA 8.43) who builds **complete, working products** rather than tutorial clones — a Laravel medicine e-commerce platform with real Razorpay payment verification, an on-device Android object/product scanner powered by YOLOv8 + TensorFlow Lite, and an AI-powered insurance matchmaking platform with semantic search.
-
-I'm looking for a **Software Development, Full Stack, or AI/ML internship** where I can work on real production systems and learn from experienced engineers.
-
-```yaml
-role:                 Final-year CSE student, ITM (SLS) Baroda University
-currently_building:   Full-stack + ML project portfolio
-currently_learning:   System design fundamentals, testing practices, ML model deployment
-ask_me_about:         Android (Kotlin/Java), Laravel/PHP, Next.js, on-device ML
-looking_for:          Software Dev / Full Stack / AI-ML internships
-reach_me_at:          samihavahora71@gmail.com
-```
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,php,js,ts,html,css&theme=light" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,flutter,tensorflow,tailwind&theme=light" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,supabase,firebase,git,github,androidstudio,vscode,docker&theme=light" />
-
-</div>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ [InsurMatch](https://github.com/samihavahora05/insurmatch)
-AI-powered insurance agent discovery platform for India — pgvector semantic search over agent profiles, with graceful keyword-matching fallback, booking, and reviews.
-
-`Next.js` `TypeScript` `Supabase` `pgvector` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### 💊 [Medtrip](https://github.com/samihavahora05/medtrip)
-Online medicine store — Laravel backend with auth, catalog, cart, and real Razorpay checkout with server-side signature verification.
-
-`Laravel` `PHP` `MySQL` `Razorpay`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 [ObjectVision](https://github.com/samihavahora05/ObjectDetection)
-On-device Android object & product scanner — live YOLOv8/TFLite detection plus an AI ingredient/nutrition analyzer.
-
-`Kotlin` `Jetpack Compose` `TFLite` `YOLOv8`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌤️ [Aura Weather](https://github.com/samihavahora05/aura-weather)
-Cross-platform Flutter weather app — GPS location, interactive Google Maps, 7-day forecasts, dark mode.
-
-`Flutter` `Dart` `Open-Meteo API` `Google Maps`
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-<div align="center">
-
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-</div>
+```javascript
+const samiha = {
+  code: ["TypeScript", "JavaScript", "PHP", "HTML5", "CSS3"],
+  technologies: {
+    frontend: ["Next.js", "React.js", "Tailwind CSS", "SWR", "Framer Motion"],
+    backend: ["Laravel 11", "Node.js", "REST APIs", "Sanctum Auth"],
+    databases: ["MySQL", "MariaDB", "PostgreSQL"],
+    paymentGateways: ["Razorpay SDK Integration"]
+  },
+  architecture: ["Monolith & REST APIs", "Role-Based Access Control (RBAC)", "Glassmorphism UI"],
+  currentFocus: "Building scalable EdTech platforms & enterprise web systems 🚀"
+};
