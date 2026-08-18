@@ -1,25 +1,9 @@
-<div align="center">
+# Samiha Vahora
+**Full Stack Developer | AI/ML Enthusiast**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C4B6B,100:0EA5E9&height=220&section=header&text=Samiha%20Vahora&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=20" width="100%"/>
+📍 Vadodara, India · [GitHub](https://github.com/samihavahora05) · [Email](mailto:samihavahora05@gmail.com)
 
-<a href="https://github.com/samihavahora05">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C4B6B&center=true&vCenter=true&width=600&lines=Building+real+products%2C+not+just+demos;Full+Stack+%2B+AI%2FML+%7C+Vadodara%2C+India;Laravel+%C2%B7+Next.js+%C2%B7+Kotlin+%C2%B7+TensorFlow;Open+to+Software%2FFull+Stack%2FAI-ML+Internships" alt="Typing SVG" />
-</a>
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samihavahora05)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samihavahora05@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=samihavahora05&style=for-the-badge&color=2C4B6B&label=PROFILE+VIEWS)
-
-<br/>
-
-<img src="https://img.shields.io/github/followers/samihavahora05?label=Followers&style=for-the-badge&color=2C4B6B&logo=github" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/samihavahora05?label=Stars&style=for-the-badge&color=0EA5E9&logo=republicofgamers" alt="GitHub Stars" />
-
-</div>
-
-<br/>
+---
 
 ## 👋 About Me
 
@@ -41,121 +25,39 @@ looking_for:          Software Dev / Full Stack / AI-ML internships
 reach_me_at:          samihavahora05@gmail.com
 ```
 
-<br clear="right"/>
+---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Languages:** Python, Java, Kotlin, PHP, JavaScript, TypeScript, HTML, CSS
 
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,php,js,ts,html,css&theme=light" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,flutter,tensorflow,tailwind,redux&theme=light" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,supabase,firebase,mongodb,git,github,androidstudio,vscode,docker,postman,vite&theme=light" />
+**Frameworks & Libraries:** React, Next.js, Laravel, Flutter, TensorFlow, Tailwind CSS, Redux
 
-</div>
+**Databases & Backend:** MySQL, Supabase, Firebase, MongoDB, REST APIs
 
-<br/>
+**Tools:** Git, GitHub, Android Studio, VS Code, Docker, Postman, Vite
+
+---
 
 ## 🚀 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🧭 [**PathFind AI**](https://github.com/samihavahora05/pathfind-ai) | AI career-guidance platform for Indian students — RIASEC psychometric quiz, LLM counselor, multilingual parent report | Next.js, LLM, Razorpay |
+| 🛡️ [**InsurMatch**](https://github.com/samihavahora05/insurmatch) | AI-powered insurance agent discovery — pgvector semantic search, booking, reviews, keyword fallback | Next.js, TypeScript, Supabase, pgvector, Docker |
+| 💊 [**Medtrip**](https://github.com/samihavahora05/medtrip) | Online medicine store — Laravel backend with real Razorpay checkout and server-side signature verification | Laravel, PHP, MySQL, Razorpay |
+| 🎯 [**ObjectVision**](https://github.com/samihavahora05/ObjectDetection) | On-device Android object & product scanner — live YOLOv8/TFLite detection plus AI ingredient analyzer | Kotlin, TFLite, YOLOv8 |
+| 🌤️ [**Aura Weather**](https://github.com/samihavahora05/aura-weather) | Cross-platform weather app — GPS location, interactive maps, 7-day forecast, dark mode | Dart, Open-Meteo API, Google Maps |
+| 🎓 [**Frontend BB**](https://github.com/samihavahora05/Frontend_BB) | Enterprise Next.js LMS admin dashboard — CMS, analytics, live course management, expert 1:1 booking | Next.js, React, TypeScript, Tailwind |
+| ⚡ [**Backend BB**](https://github.com/samihavahora05/backend_BB_fixed_v5) | High-speed RESTful backend — auth, course engine, payments, powering the BB training platform | Laravel, PHP, MySQL, REST API |
 
-<h3 align="center">🧭 PathFind AI</h3>
+---
 
-[![PathFind AI](https://github-readme-stats.vercel.app/api/pin/?username=samihavahora05&repo=pathfind-ai&theme=tokyonight&hide_border=true)](https://github.com/samihavahora05/pathfind-ai)
+## 📫 Connect with Me
 
-<p align="center">AI career-guidance platform for Indian students — RIASEC psychometric quiz + LLM counselor + multilingual parent report.<br/><code>Next.js</code> <code>LLM</code> <code>Razorpay</code></p>
+- GitHub: [github.com/samihavahora05](https://github.com/samihavahora05)
+- Email: [samihavahora05@gmail.com](mailto:samihavahora05@gmail.com)
 
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🛡️ InsurMatch</h3>
-
-[![InsurMatch](https://github-readme-stats.vercel.app/api/pin/?username=samihavahora05&repo=insurmatch&theme=tokyonight&hide_border=true)](https://github.com/samihavahora05/insurmatch)
-
-<p align="center">AI-powered insurance agent discovery for India — pgvector semantic search, booking, reviews, keyword fallback.<br/><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>pgvector</code> <code>Docker</code></p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">💊 Medtrip</h3>
-
-[![Medtrip](https://github-readme-stats.vercel.app/api/pin/?username=samihavahora05&repo=medtrip&theme=tokyonight&hide_border=true)](https://github.com/samihavahora05/medtrip)
-
-<p align="center">Online medicine store — Laravel backend, real Razorpay checkout with server-side signature verification.<br/><code>Laravel</code> <code>PHP</code> <code>MySQL</code> <code>Razorpay</code></p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🎯 ObjectVision</h3>
-
-[![ObjectVision](https://github-readme-stats.vercel.app/api/pin/?username=samihavahora05&repo=ObjectDetection&theme=tokyonight&hide_border=true)](https://github.com/samihavahora05/ObjectDetection)
-
-<p align="center">On-device Android object & product scanner — live YOLOv8/TFLite detection + AI ingredient analyzer.<br/><code>Kotlin</code> <code>TFLite</code> <code>YOLOv8</code></p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🌤️ Aura Weather</h3>
-
-[![Aura Weather](https://github-readme-stats.vercel.app/api/pin/?username=samihavahora05&repo=aura-weather&theme=tokyonight&hide_border=true)](https://github.com/samihavahora05/aura-weather)
-
-<p align="center">Cross-platform weather app — GPS location, interactive maps, 7-day forecast, dark mode.<br/><code>Dart</code> <code>Open-Meteo API</code> <code>Google Maps</code></p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🎓 Frontend BB Platform</h3>
-
-[![Frontend BB](https://github-readme-stats.vercel.app/api/pin/?username=samihavahora05&repo=Frontend_BB&theme=tokyonight&hide_border=true)](https://github.com/samihavahora05/Frontend_BB)
-
-<p align="center">Enterprise Next.js LMS admin dashboard — CMS, analytics, live course management, expert 1:1 booking.<br/><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind</code></p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">⚡ Backend BB API</h3>
-
-[![Backend BB](https://github-readme-stats.vercel.app/api/pin/?username=samihavahora05&repo=backend_BB_fixed_v5&theme=tokyonight&hide_border=true)](https://github.com/samihavahora05/backend_BB_fixed_v5)
-
-<p align="center">High-speed RESTful backend — auth, course engine, payments, powering the BB training platform.<br/><code>Laravel</code> <code>PHP</code> <code>MySQL</code> <code>REST API</code></p>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samihavahora05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samihavahora05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samihavahora05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samihavahora05&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samihavahora05&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
-</p>
-
-<div align="center">
+---
 
 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0F2027&height=150&section=footer" width="100%"/>
