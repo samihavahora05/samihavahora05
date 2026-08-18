@@ -111,13 +111,7 @@ High-speed RESTful backend API powered by Laravel, supporting authentication, co
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samihavahora05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samihavahora05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samihavahora05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+ 
 
 <div align="center">
 
