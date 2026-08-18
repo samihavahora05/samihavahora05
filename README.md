@@ -108,10 +108,6 @@ High-speed RESTful backend API powered by Laravel, supporting authentication, co
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<p align="center">
- 
 
 <div align="center">
 
