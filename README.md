@@ -12,6 +12,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samihavahora05)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samihavahora05@gmail.com)
 
+<br/>
+
+<img src="https://img.shields.io/github/followers/samihavahora05?label=Followers&style=for-the-badge&color=2C4B6B&logo=github" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/samihavahora05?label=Stars&style=for-the-badge&color=0EA5E9&logo=republicofgamers" alt="GitHub Stars" />
+
 </div>
 <br/>
 
@@ -37,7 +42,7 @@ reach_me_at:          samihavahora05@gmail.com
 
 <img src="https://skillicons.dev/icons?i=python,java,kotlin,php,js,ts,html,css&theme=light" /><br/><br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,flutter,tensorflow,tailwind&theme=light" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,supabase,firebase,git,github,androidstudio,vscode,docker&theme=light" />
+<img src="https://skillicons.dev/icons?i=mysql,supabase,firebase,mongodb,git,github,androidstudio,vscode,docker,postman,vite,redux&theme=light" />
 
 </div>
 <br/>
@@ -81,6 +86,24 @@ Cross-platform weather app — GPS location, interactive maps, 7-day forecasts, 
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 [Frontend BB Platform](https://github.com/samihavahora05/Frontend_BB)
+Enterprise-grade Next.js education & LMS admin dashboard with CMS, analytics, and live course management — the frontend for an IT training platform (courses, internships, jobs, expert 1-on-1 sessions).
+
+`Next.js` `React` `TypeScript` `Tailwind`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [Backend BB API](https://github.com/samihavahora05/backend_BB_fixed_v5)
+High-speed RESTful backend API powered by Laravel, supporting authentication, course engines, and payments for the BB training platform.
+
+`Laravel` `PHP` `MySQL` `REST API`
+
+</td>
+</tr>
 </table>
 
 <br/>
@@ -90,6 +113,10 @@ Cross-platform weather app — GPS location, interactive maps, 7-day forecasts, 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samihavahora05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samihavahora05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samihavahora05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <div align="center">
