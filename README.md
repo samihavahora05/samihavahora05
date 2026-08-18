@@ -1,106 +1,103 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1B2A6B&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Sami+Hava+Hora!;Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Laravel+%7C+TypeScript;Building+Scalable+%26+Modern+Web+Apps" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/samihavahora05">
-    <img src="https://img.shields.io/github/followers/samihavahora05?label=Followers&style=for-the-badge&color=1B2A6B&logo=github" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/samihavahora05?tab=repositories">
-    <img src="https://img.shields.io/github/stars/samihavahora05?label=Stars&style=for-the-badge&color=0EA5E9&logo=republicofgamers" alt="GitHub Stars" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-Building%20Awesome%20Products-emerald?style=for-the-badge&logo=rocket" alt="Status" />
-</p>
+# Samiha Vahora
+**Full Stack Developer | AI/ML Enthusiast**
+
+<a href="https://github.com/samihavahora05">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2C4B6B&center=true&vCenter=true&width=550&lines=Building+real+products%2C+not+just+demos;Full+Stack+%2B+AI%2FML+%7C+Vadodara%2C+India;Open+to+Software%2FFull+Stack%2FAI-ML+Internships" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samihavahora05)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samihavahora05@gmail.com)
+
+</div>
+<br/>
+
+## 👋 About Me
+
+I'm a final-year **Computer Science Engineering** student (ITM SLS Baroda University, Vadodara — CGPA 8.43) who builds **complete, working products** rather than tutorial clones — a Laravel medicine e-commerce platform with real Razorpay payment verification, an on-device Android object/product scanner powered by YOLOv8 + TensorFlow Lite, and an AI-powered insurance matchmaking platform with semantic search.
+
+I'm looking for a **Software Development, Full Stack, or AI/ML internship** where I can work on real production systems and learn from experienced engineers.
+
+```yaml
+role:                 Final-year CSE student, ITM (SLS) Baroda University
+currently_building:   Full-stack + ML project portfolio
+ask_me_about:         Android (Kotlin), Laravel/PHP, Next.js, on-device ML
+looking_for:          Software Dev / Full Stack / AI-ML internships
+reach_me_at:          samihavahora05@gmail.com
+```
 
 <br/>
 
-```javascript
-const samihavahora = {
-    code: ["TypeScript", "JavaScript", "PHP", "HTML5", "CSS3"],
-    technologies: {
-        frontend: ["React.js", "Next.js", "Tailwind CSS", "Redux", "Framer Motion"],
-        backend: ["Laravel", "Node.js", "RESTful APIs", "Express.js"],
-        databases: ["MySQL", "PostgreSQL", "MongoDB"],
-        tools: ["Git", "GitHub", "Vite", "Postman", "Vercel"]
-    },
-    currentFocus: "Architecting high-performance web applications & Next.js/Laravel systems",
-    funFact: "Passionate about turning complex requirements into elegant, high-impact UI/UX"
-};
-```
+## 🛠️ Tech Stack
 
----
+<div align="center">
 
-### 🚀 About Me
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,php,js,ts,html,css&theme=light" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,flutter,tensorflow,tailwind&theme=light" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,supabase,firebase,git,github,androidstudio,vscode,docker&theme=light" />
 
-- 👨‍💻 **Passionate Full-Stack Developer** crafting modern, responsive, and scalable web solutions.
-- 🎓 Specializing in **React/Next.js enterprise frontends** and **Laravel REST API backends**.
-- 🛠️ Dedicated to writing clean, maintainable code, optimized performance, and delightful user experiences.
-- ⚡ Always open to collaboration on open-source projects, SaaS applications, and web innovations.
+</div>
+<br/>
 
----
+## 🚀 Featured Projects
 
-### 🛠️ Tech Stack & Skills
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [InsurMatch](https://github.com/samihavahora05/insurmatch)
+AI-powered insurance agent discovery platform for India — pgvector semantic search over agent profiles, with graceful keyword-matching fallback, booking, and reviews.
+
+`Next.js` `TypeScript` `Supabase` `pgvector` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 💊 [Medtrip](https://github.com/samihavahora05/medtrip)
+Online medicine store — Laravel backend with auth, catalog, cart, and real Razorpay checkout with server-side signature verification.
+
+`Laravel` `PHP` `MySQL` `Razorpay`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 [ObjectVision](https://github.com/samihavahora05/ObjectDetection)
+On-device Android object & product scanner — live YOLOv8/TFLite detection plus an AI ingredient/nutrition analyzer.
+
+`Kotlin` `TFLite` `YOLOv8`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌤️ [Aura Weather](https://github.com/samihavahora05/aura-weather)
+Cross-platform weather app — GPS location, interactive maps, 7-day forecasts, dark mode.
+
+`Dart` `Open-Meteo API` `Google Maps`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-<p align="center">
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
-<p align="center">
-  <!-- Databases & Tools -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samihavahora05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sami's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samihavahora05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samihavahora05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samihavahora05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
 
----
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-### 🌟 Featured Projects
-
-| Project | Description | Tech Stack | Repository |
-| :--- | :--- | :--- | :--- |
-| 🎓 **Frontend BB Platform** | Enterprise-grade Next.js education & LMS admin dashboard with CMS, analytics, & live course management. | Next.js, React, TypeScript, Tailwind | [Frontend_BB](https://github.com/samihavahora05/Frontend_BB) |
-| ⚡ **Backend BB API** | High-speed RESTful backend API powered by Laravel, supporting authentication, course engines & payments. | Laravel, PHP, MySQL, REST API | [Backend_BB](https://github.com/samihavahora05/backend_BB_fixed_v5) |
-
----
-
-### 📫 Connect with Me
+</div>
 
 <p align="center">
-  <a href="https://github.com/samihavahora05">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:samihavahora05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1B2A6B&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2C4B6B&height=100&section=footer" width="100%" />
 </p>
