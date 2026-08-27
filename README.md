@@ -122,16 +122,12 @@ Personal developer portfolio site.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samihavahora05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Samiha's GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com?user=samihavahora05&theme=tokyonight&hide_border=true&background=00000000" alt="Samiha's GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samihavahora05&theme=tokyo-night&hide_border=true&bg_color=00000000" width="90%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samihavahora05&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img src="./generated-images/overview.svg#gh-dark-mode-only" width="48%"/>
+  <img src="./generated-images/languages.svg#gh-dark-mode-only" width="45%"/>
 </p>
 
 <!-- 🌆 3D CONTRIBUTION SKYLINE — animates automatically once the workflow (below) runs -->
