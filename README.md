@@ -15,7 +15,6 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
 ### 🚀 About Me
 
@@ -47,7 +46,6 @@
   <img src="https://img.shields.io/badge/-YOLOv8-00FFFF?style=for-the-badge" />
 </p>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
 ### 📌 Featured Projects
 
@@ -120,7 +118,6 @@ Personal developer portfolio site.
 
 <p align="center">📁 See all repositories on my <a href="https://github.com/samihavahora05?tab=repositories">GitHub profile</a>.</p>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
 ### 📊 GitHub Stats
 
