@@ -121,7 +121,9 @@ Personal developer portfolio site.
 
 ### 📊 GitHub Stats
 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=samihavahora05&theme=tokyonight&hide_border=true&background=00000000" alt="Samiha's GitHub Streak" height="165"/>
+</p>
 
 <!-- 🌆 3D CONTRIBUTION SKYLINE — animates automatically once the workflow (below) runs -->
 <p align="center">
