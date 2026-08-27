@@ -1,63 +1,159 @@
-# Samiha Vahora
-**Full Stack Developer | AI/ML Enthusiast**
+<div align="center">
 
-📍 Vadodara, India · [GitHub](https://github.com/samihavahora05) · [Email](mailto:samihavahora05@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=230&section=header&text=Hi%20There,%20I'm%20Samiha%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=57&descAlign=50" width="100%"/>
 
----
+<a href="https://samihavahora05.github.io/samiha-portfolio/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&width=600&lines=Building+with+React.js+%2B+Laravel+%2B+Python;Full+Stack+Developer+at+BLUEBOXX+DA;Shipping+HRMS+%26+AI-powered+web+apps;Open+to+Internship+%26+Entry-Level+Roles!" alt="Typing SVG" />
+</a>
 
-## 👋 About Me
+<p>
+  <a href="mailto:samihavahora71@gmail.com"><img src="https://img.shields.io/badge/Email-samihavahora71%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://samihavahora05.github.io/samiha-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-8E2DE2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
 
-I'm a **Computer Science Engineering** student who builds **complete, working products**, not tutorial clones:
+<img src="https://komarev.com/ghpvc/?username=samihavahora05&style=for-the-badge&color=8E2DE2&label=Profile+Views" />
 
-- 🧭 An AI-powered **career guidance platform** combining a RIASEC psychometric quiz with an LLM counselor
-- 🛡️ An AI-powered **insurance matchmaking platform** with real pgvector semantic search
-- 💊 A **Laravel medicine e-commerce platform** with real Razorpay payment verification
-- 🎯 An **on-device Android scanner** running YOLOv8 + TensorFlow Lite in real time
-- 🎓 A full **LMS platform** (frontend + backend) for an IT training company
+</div>
 
-I'm looking for a **Software Development, Full Stack, or AI/ML internship** where I can work on real production systems and learn from experienced engineers.
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-```yaml
-role:                 CSE student, ITM (SLS) Baroda University
-currently_building:   Full-stack + ML project portfolio
-ask_me_about:         Android (Kotlin), Laravel/PHP, Next.js, on-device ML
-looking_for:          Software Dev / Full Stack / AI-ML internships
-reach_me_at:          samihavahora05@gmail.com
-```
+### 🚀 About Me
 
----
+- 🎓 Final-year **B.Tech Computer Science Engineering** student at ITM (SLS) Baroda University, Vadodara
+- 🖥️ Prior **Diploma in Computer Engineering** from MSU Polytechnic (2021–2024)
+- 💻 Full Stack Developer with experience in **React.js, PHP, Laravel, Python, and MySQL**
+- 🏢 Hands-on experience at **BLUEBOXX DA**, building 2 working websites — the **HRMS** and the **BLUEBOXX DA platform** itself
+- 🌱 Passionate about web development, AI, and building impactful applications
+- 📢 Social Media Manager for **GDG On Campus**
+- 📜 Certified in Emerging Technologies (AI/ML, Deep Learning, Edge Computing, SAP Analytics Cloud) via **SAP/Edunet Code Unnati** (ID: CU26_32276)
+- 💬 Currently open to **internship and entry-level opportunities** in Full Stack Development and AI/ML Engineering
 
-## 🛠️ Tech Stack
+<br>
 
-**Languages:** Python, Java, Kotlin, PHP, JavaScript, TypeScript, HTML, CSS
+<div align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500">
+</div>
 
-**Frameworks & Libraries:** React, Next.js, Laravel, Flutter, TensorFlow, Tailwind CSS, Redux
+<br>
 
-**Databases & Backend:** MySQL, Supabase, Firebase, MongoDB, REST APIs
+### 🛠️ Tech Stack
 
-**Tools:** Git, GitHub, Android Studio, VS Code, Docker, Postman, Vite
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,laravel,php,py,kotlin,dart,flutter,mysql,firebase,tailwind,git,github&theme=dark&perline=14" />
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/-TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-YOLOv8-00FFFF?style=for-the-badge" />
+</p>
 
-## 🚀 Featured Projects
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🧭 [**PathFind AI**](https://github.com/samihavahora05/pathfind-ai) | AI career-guidance platform for Indian students — RIASEC psychometric quiz, LLM counselor, multilingual parent report | Next.js, LLM, Razorpay |
-| 🛡️ [**InsurMatch**](https://github.com/samihavahora05/insurmatch) | AI-powered insurance agent discovery — pgvector semantic search, booking, reviews, keyword fallback | Next.js, TypeScript, Supabase, pgvector, Docker |
-| 💊 [**Medtrip**](https://github.com/samihavahora05/medtrip) | Online medicine store — Laravel backend with real Razorpay checkout and server-side signature verification | Laravel, PHP, MySQL, Razorpay |
-| 🎯 [**ObjectVision**](https://github.com/samihavahora05/ObjectDetection) | On-device Android object & product scanner — live YOLOv8/TFLite detection plus AI ingredient analyzer | Kotlin, TFLite, YOLOv8 |
-| 🌤️ [**Aura Weather**](https://github.com/samihavahora05/aura-weather) | Cross-platform weather app — GPS location, interactive maps, 7-day forecast, dark mode | Dart, Open-Meteo API, Google Maps |
-| 🎓 [**Frontend BB**](https://github.com/samihavahora05/Frontend_BB) | Enterprise Next.js LMS admin dashboard — CMS, analytics, live course management, expert 1:1 booking | Next.js, React, TypeScript, Tailwind |
-| ⚡ [**Backend BB**](https://github.com/samihavahora05/backend_BB_fixed_v5) | High-speed RESTful backend — auth, course engine, payments, powering the BB training platform | Laravel, PHP, MySQL, REST API |
+### 📌 Featured Projects
 
----
+<table>
+<tr>
+<td width="50%">
 
-## 📫 Connect with Me
+**[🔷 Frontend_BB](https://github.com/samihavahora05/Frontend_BB)**
+High-performance edtech/career ecosystem web app.
+`Next.js` `React` `TypeScript` `Tailwind CSS`
 
-- GitHub: [github.com/samihavahora05](https://github.com/samihavahora05)
-- Email: [samihavahora05@gmail.com](mailto:samihavahora05@gmail.com)
+</td>
+<td width="50%">
 
----
+**[🔶 Backend_BB](https://github.com/samihavahora05/Backend_BB)**
+Enterprise RESTful API & management engine for BLUEBOXX DA.
+`Laravel v11` `MySQL`
 
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[🟢 Hr-Management-System](https://github.com/samihavahora05/Hr-Management-System)**
+Role-aware HRMS — attendance, leave, recruitment ATS, analytics.
+`Laravel 11` `Next.js 15`
+
+</td>
+<td width="50%">
+
+**[🟣 insurmatch](https://github.com/samihavahora05/insurmatch)**
+AI-powered insurance agent discovery platform for India.
+`TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[🤖 ObjectDetection](https://github.com/samihavahora05/ObjectDetection)**
+On-device Android object detection & AI product scanner.
+`Kotlin` `YOLOv8` `TensorFlow Lite`
+
+</td>
+<td width="50%">
+
+**[💰 ExpenseTracker](https://github.com/samihavahora05/ExpenseTracker)**
+Native Android expense tracker with Firebase auth & real-time sync.
+`Java` `Firebase`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[🌤️ aura-weather](https://github.com/samihavahora05/aura-weather)**
+Cross-platform weather app with real-time GPS & 7-day forecasts.
+`Flutter` `Dart`
+
+</td>
+<td width="50%">
+
+**[🧑‍💻 samiha-portfolio](https://github.com/samihavahora05/samiha-portfolio)**
+Personal developer portfolio site.
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+</table>
+
+<p align="center">📁 See all repositories on my <a href="https://github.com/samihavahora05?tab=repositories">GitHub profile</a>.</p>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samihavahora05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Samiha's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samihavahora05&theme=tokyonight&hide_border=true&background=00000000" alt="Samiha's GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samihavahora05&theme=tokyo-night&hide_border=true&bg_color=00000000" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samihavahora05&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</p>
+
+<!-- 🌆 3D CONTRIBUTION SKYLINE — animates automatically once the workflow (below) runs -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samihavahora05/samihavahora05/output/github-contribution-grid-snake.svg" width="90%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samihavahora05/samihavahora05/output/profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
+</p>
+
+<br>
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:samihavahora71@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://samihavahora05.github.io/samiha-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" width="100%"/>
+
+<p align="center"><em>Thanks for stopping by! ⭐ this profile if you found it interesting.</em></p>
