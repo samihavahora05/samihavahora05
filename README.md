@@ -126,7 +126,7 @@ Personal developer portfolio site.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samihavahora05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Samiha's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samihavahora05&theme=tokyonight&hide_border=true&background=00000000" alt="Samiha's GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=samihavahora05&theme=tokyonight&hide_border=true&background=00000000" alt="Samiha's GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
