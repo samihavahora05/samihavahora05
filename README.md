@@ -127,9 +127,6 @@ Personal developer portfolio site.
 <p align="center">
   <img src="https://raw.githubusercontent.com/samihavahora05/samihavahora05/output/github-contribution-grid-snake.svg" width="90%" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samihavahora05/samihavahora05/output/profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
-</p>
 
 <br>
 
