@@ -1,21 +1,55 @@
-name: 3D Contribution Skyline
+name: Update Profile Animations
+
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      # Checkout repository
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Generate 3D Contribution Skyline
+      - name: Generate 3D Contribution Skyline
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: samihavahora05
-      - uses: stefanzweifel/git-auto-commit-action@v5
+
+      # Generate Snake Animation
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
         with:
-          branch: output
-          commit_message: "Update 3D contribution skyline"
-          file_pattern: "profile-3d-contrib/*.svg"
+          github_user_name: samihavahora05
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Prepare all generated files
+      - name: Prepare output files
+        run: |
+          mkdir -p publish/profile-3d-contrib
+          mkdir -p publish/snake
+
+          cp -r profile-3d-contrib/* publish/profile-3d-contrib/ || true
+          cp -r dist/* publish/snake/ || true
+
+      # Deploy everything together to output branch
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: publish
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
